@@ -6,7 +6,14 @@ I would describe myself as an experienced Full Stack Python developer with a bro
 Я бы описал себя как опытного разработчика Full Stack на Python с обширными знаниями в области веб-технологий и баз данных. У меня большой опыт в создании и развертывании высокопроизводительных приложений, начиная от создания прототипов и анализа требований и заканчивая их внедрением и тестированием.<br><br>Мой опыт включает разработку и интеграцию различных API, работу с базами данных (в SQL и NoSQL) и, flasks, использование фреймворков и Django, а также опыт фронтендовой разработки с использованием HTML и CSS, а также JavaScript и react.on JS+ReactNative.<br><br>Я уверен в своих навыках командной работы и управления проектами, у меня есть опыт работы в гибкой среде, а также взаимодействие с клиентами и бизнесом в целом. Я стремлюсь к дальнейшему совершенствованию своих навыков и расширению своих знаний в области технологий и методологий разработки программного обеспечения.
 
 ## 🌐 Socials:
-  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/off_mi4ka#9628) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/official.mi4ka) [![VK](https://[img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/off_mi4ka](https://vk.com/official.mi4ka)) 
+<a href="https://vk.com/official.mi4ka">
+  <img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-32vk-4102593_113806.png" alt="VK" width="32" height="32">
+</a>
+<a href="https://web.telegram.org/k/#@off_mi4ka">
+  <img src="https://cdn.icon-icons.com/icons2/923/PNG/256/telegram_icon-icons.com_72055.png" alt="TELEGRAM" width="32" height="32">
+</a>
+
+
 
 
 # 📊 GitHub Stats:
@@ -20,7 +27,3 @@ I would describe myself as an experienced Full Stack Python developer with a bro
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
