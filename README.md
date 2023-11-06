@@ -1,7 +1,7 @@
 <h1 align="center">Привет, коллега! Меня зовут Михаил</h1>
 <h3 align="center">Я Python-Backend разработчик из России</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sibermix&label=Profile%20views&color=0e75b6&style=flat" alt="sibermix" /> <br> Профиль просматривают 500 человек </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sibermix&label=Profile%20views&color=0e75b6&style=flat" alt="sibermix" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sibermix" alt="sibermix" /></a> </p>
 
