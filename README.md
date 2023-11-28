@@ -7,7 +7,7 @@
 
 - Я работаю над проектом [https://kokocgroup.ru/](https://kokocgroup.ru/)
 
-- Сейчас я учу **Django, FastApi, React-Native**
+- Сейчас я пишу на стеке **Django, FastApi, React-Native**
 
 - Я развиваю стартап [HectareSystems](https://hectaresystems.ru/)
 
