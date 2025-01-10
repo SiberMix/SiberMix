@@ -7,13 +7,9 @@
 
 - Я работаю над проектом [https://kokocgroup.ru/](https://kokocgroup.ru/)
 
-- Сейчас я пишу на стеке **Django, FastApi, React-Native**
-
-- Я развиваю стартап [HectareSystems](https://hectaresystems.ru/)
-
 - Раньше я был разработчиком/резидентом в [СКОЛКОВО](https://sk.ru/)
 
-- Я открыт для связи **off_mi4ka@vk.com**
+- Я открыт для связи **off_mi4ka@vk.com** https://t.me/off_mi4ka
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
