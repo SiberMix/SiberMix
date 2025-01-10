@@ -11,7 +11,6 @@
 
 - Я открыт для связи **off_mi4ka@vk.com** https://t.me/off_mi4ka
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
