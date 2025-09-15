@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sibermix" alt="sibermix" /></a> </p>
 
-- Я работаю над проектом [https://kokocgroup.ru/](https://kokocgroup.ru/)
+- Я работаю в [https://masterdelivery.ru/](https://masterdelivery.ru/)
 
 - Раньше я был разработчиком/резидентом в [СКОЛКОВО](https://sk.ru/)
 
