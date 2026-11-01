@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sibermix&label=Profile%20views&color=0e75b6&style=flat" alt="sibermix" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sibermix" alt="sibermix" /></a> </p>
+
 
 - Я работаю в [https://masterdelivery.ru/](https://masterdelivery.ru/)
 
